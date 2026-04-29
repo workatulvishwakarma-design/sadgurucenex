@@ -1,0 +1,223 @@
+{
+  "brand": {
+    "name": "Sadguru Consultancy & Services",
+    "shortName": "Sadguru",
+    "tagline": "Trusted Indirect Tax Consultancy Since 2005",
+    "phone1": "(022) 28757338",
+    "phone2": "9320542414",
+    "email1": "admin@sadgurucenex.com",
+    "email2": "sadgurucenex@yahoo.co.in",
+    "whatsapp": "919320542414",
+    "hours": "Mon - Sat, 10 AM to 6 PM",
+    "address": "407, Kamlacharan Commercial Premises, Plot No. 179-180, Jawahar Nagar, Road No. 2, Near Old Railway Crossing, Goregaon (West), Mumbai – 400104"
+  },
+  "nav": {
+    "links": [
+      { "label": "Home", "href": "/index.html" },
+      { "label": "About Us", "href": "/about.html" },
+      { "label": "Services", "href": "/services.html", "dropdown": [
+        { "label": "GST Services", "href": "/gst.html", "icon": "bi-receipt" },
+        { "label": "Central Excise", "href": "/central-excise.html", "icon": "bi-building" },
+        { "label": "Service Tax", "href": "/service-tax.html", "icon": "bi-file-earmark-text" },
+        { "label": "100% EOU", "href": "/eou.html", "icon": "bi-box-seam" },
+        { "label": "DGFT / Customs / Appeals", "href": "/dgft-customs.html", "icon": "bi-shield-check" }
+      ]},
+      { "label": "Clients", "href": "/clients.html" },
+      { "label": "Testimonials", "href": "/testimonials.html" },
+      { "label": "Downloads", "href": "/downloads.html" },
+      { "label": "Contact", "href": "/contact.html" }
+    ]
+  },
+  "counters": [
+    { "value": 20, "suffix": "+", "label": "Years of Experience", "icon": "bi-clock-history" },
+    { "value": 500, "suffix": "+", "label": "Clients Served", "icon": "bi-people" },
+    { "value": 1500, "suffix": "+", "label": "Cases Handled", "icon": "bi-briefcase" },
+    { "value": 98, "suffix": "%", "label": "Client Satisfaction", "icon": "bi-star" }
+  ],
+  "services": [
+    {
+      "id": "gst",
+      "title": "GST Services",
+      "icon": "bi-receipt",
+      "shortDesc": "Complete GST compliance, registration, return filing, audit support, and litigation assistance for businesses across India.",
+      "href": "/gst.html",
+      "color": "#0d6efd"
+    },
+    {
+      "id": "central-excise",
+      "title": "Central Excise",
+      "icon": "bi-building",
+      "shortDesc": "Expert advisory on Central Excise law, procedures, documentation, export benefits, and departmental representation.",
+      "href": "/central-excise.html",
+      "color": "#198754"
+    },
+    {
+      "id": "service-tax",
+      "title": "Service Tax",
+      "icon": "bi-file-earmark-text",
+      "shortDesc": "Comprehensive Service Tax guidance including registration, returns, audit preparation, and legal compliance support.",
+      "href": "/service-tax.html",
+      "color": "#6f42c1"
+    },
+    {
+      "id": "customs",
+      "title": "Customs & DGFT",
+      "icon": "bi-globe2",
+      "shortDesc": "Strategic Customs and DGFT advisory covering import-export regulations, duty benefits, and foreign trade policy.",
+      "href": "/dgft-customs.html",
+      "color": "#d63384"
+    },
+    {
+      "id": "eou",
+      "title": "100% EOU",
+      "icon": "bi-box-seam",
+      "shortDesc": "Specialized consultancy for 100% Export Oriented Units including registration, bond execution, and compliance management.",
+      "href": "/eou.html",
+      "color": "#fd7e14"
+    },
+    {
+      "id": "litigation",
+      "title": "Appeals & Litigation",
+      "icon": "bi-shield-check",
+      "shortDesc": "Professional representation before adjudicating authorities, Commissioner Appeals, CESTAT, and settlement commissions.",
+      "href": "/dgft-customs.html",
+      "color": "#dc3545"
+    }
+  ],
+  "industries": [
+    { "title": "Manufacturers", "icon": "bi-gear", "desc": "Comprehensive indirect tax support for manufacturing units across sectors" },
+    { "title": "Exporters", "icon": "bi-airplane", "desc": "Expert guidance on export benefits, duty drawbacks, and SEZ compliance" },
+    { "title": "Dealers & Traders", "icon": "bi-shop", "desc": "GST registration, return filing, and compliance for trading businesses" },
+    { "title": "Service Providers", "icon": "bi-headset", "desc": "Service Tax and GST compliance for professional and business services" },
+    { "title": "100% EOU Units", "icon": "bi-box-seam", "desc": "End-to-end EOU scheme compliance, registration, and operational support" },
+    { "title": "Hospitality Sector", "icon": "bi-building-check", "desc": "Specialized indirect tax advisory for hotels, resorts, and hospitality businesses" }
+  ],
+  "process": [
+    { "step": "01", "title": "Understand", "desc": "We begin by thoroughly understanding your business operations, industry, and specific tax compliance requirements.", "icon": "bi-search" },
+    { "step": "02", "title": "Review", "desc": "Our experts conduct a detailed review of your existing tax structure, documentation, and compliance status.", "icon": "bi-clipboard-check" },
+    { "step": "03", "title": "Strategize", "desc": "We develop a tailored strategy to optimize your tax position while ensuring full regulatory compliance.", "icon": "bi-lightbulb" },
+    { "step": "04", "title": "Execute", "desc": "Our team implements the strategy with precision, handling all filings, documentation, and representations.", "icon": "bi-rocket-takeoff" },
+    { "step": "05", "title": "Support", "desc": "Ongoing support and monitoring to ensure continued compliance and timely response to any departmental queries.", "icon": "bi-headset" }
+  ],
+  "testimonials": [
+    {
+      "name": "Rajesh Sharma",
+      "role": "Finance Director",
+      "company": "Leading Manufacturing Firm",
+      "text": "Sadguru Consultancy has been instrumental in streamlining our GST compliance. Their deep understanding of indirect tax law and proactive approach saved us from potential penalties. Truly professional and reliable.",
+      "rating": 5
+    },
+    {
+      "name": "Priya Mehta",
+      "role": "Operations Head",
+      "company": "Export-Oriented Enterprise",
+      "text": "Their EOU consultancy is exceptional. From registration to bond execution and ongoing compliance, every detail was handled meticulously. We couldn't have navigated the complexities without their expert guidance.",
+      "rating": 5
+    },
+    {
+      "name": "Anil Kulkarni",
+      "role": "Managing Director",
+      "company": "Hospitality Group",
+      "text": "When we received a show cause notice, Sadguru's team responded with a brilliantly drafted reply that resolved the matter favourably. Their experience with departmental proceedings is unmatched.",
+      "rating": 5
+    },
+    {
+      "name": "Sunita Deshmukh",
+      "role": "Compliance Officer",
+      "company": "Trading Corporation",
+      "text": "The transition to GST was seamless thanks to Sadguru Consultancy. They handled migration, return filing, and trained our team on GST basics. Their ongoing support has been invaluable.",
+      "rating": 5
+    },
+    {
+      "name": "Vikram Patel",
+      "role": "CEO",
+      "company": "Electronics Manufacturer",
+      "text": "Their Central Excise advisory helped us maximize our duty benefits while staying fully compliant. The team's knowledge of export procedures and SEZ clearances is exceptional.",
+      "rating": 5
+    },
+    {
+      "name": "Meera Joshi",
+      "role": "CFO",
+      "company": "Service Industry Leader",
+      "text": "From Service Tax registration to handling EA-2000 audits, Sadguru has been our trusted partner. Their meticulous documentation and legal expertise give us complete peace of mind.",
+      "rating": 5
+    }
+  ],
+  "clients": [
+    { "name": "Kalpataru's Hospitality & Facility Management Services Pvt. Ltd." },
+    { "name": "Hotel Leelaventure Limited Unit of The Leela Kempinski" },
+    { "name": "Whirlybird Electronics Pvt. Ltd." },
+    { "name": "Victorinox" },
+    { "name": "V M Muslankar & Sons Pvt. Ltd." },
+    { "name": "The Associated Auto Parts Pvt. Ltd." },
+    { "name": "Leading Chemical Manufacturers" },
+    { "name": "Prominent Textile Exporters" },
+    { "name": "Renowned Electronics Assemblers" },
+    { "name": "Major Hospitality Chains" },
+    { "name": "Established Trading Houses" },
+    { "name": "Reputed Engineering Firms" }
+  ],
+  "faqs": {
+    "home": [
+      { "q": "What indirect tax services does Sadguru Consultancy provide?", "a": "We provide comprehensive indirect tax consultancy covering GST, Central Excise, Customs, Service Tax, 100% EOU compliance, DGFT advisory, and litigation support including show cause notice replies, appeals, and representations before various authorities." },
+      { "q": "How experienced is your team?", "a": "Our founding consultant, Shri Rajan Mashelkar, has over 20 years of experience in Central Excise, Customs, and Service Tax departments, having served as Superintendent of Central Excise before voluntary retirement. Combined with the next generation's expertise in GST, we bring unmatched practical field knowledge." },
+      { "q": "Do you handle show cause notices and departmental audits?", "a": "Yes, we specialize in drafting replies to show cause notices, representing clients during personal hearings, preparing for EA-2000 audits, and managing the complete litigation process from adjudication to CESTAT appeals." },
+      { "q": "Can you assist with GST registration and monthly return filing?", "a": "Absolutely. We handle the entire GST lifecycle — from migration and registration to preparation and filing of all GST returns, compliance management, and ongoing monthly/quarterly support tailored to your business." },
+      { "q": "What industries do you serve?", "a": "We serve manufacturers, exporters, dealers, traders, service providers, 100% EOU units, and hospitality businesses. Our expertise spans across diverse sectors requiring indirect tax compliance and advisory." },
+      { "q": "How can I schedule a consultation?", "a": "You can reach us by phone at (022) 28757338 or 9320542414, email us at admin@sadgurucenex.com, or fill out the contact form on our website. We offer initial consultations to understand your requirements before recommending a tailored approach." }
+    ],
+    "gst": [
+      { "q": "What is GST registration and who needs it?", "a": "GST registration is mandatory for businesses with annual turnover exceeding the prescribed threshold. It's also required for interstate suppliers, e-commerce operators, and certain other categories. We assist with the complete registration process including migration from earlier tax regimes." },
+      { "q": "What GST returns do I need to file?", "a": "Depending on your business type, you may need to file GSTR-1 (outward supplies), GSTR-3B (summary return), GSTR-9 (annual return), and others. We handle preparation and filing of all applicable returns accurately and on time." },
+      { "q": "How do you handle GST show cause notices?", "a": "We carefully analyze the notice, review your documentation, and draft a comprehensive reply with supporting legal provisions and evidence. We also represent clients during personal hearings if required." },
+      { "q": "Can you help with GST refund applications?", "a": "Yes, we prepare and file GST refund applications for excess input tax credit, exports, and other eligible categories. We handle the complete process including documentation, online filing, and follow-up with the department." }
+    ],
+    "centralExcise": [
+      { "q": "Is Central Excise still relevant after GST?", "a": "While GST replaced Central Excise for most goods, it remains applicable for petroleum products, tobacco, and certain other items. Existing litigation and legacy matters also require ongoing expert attention." },
+      { "q": "What does Central Excise consultancy cover?", "a": "Our services include legal guidance, procedural compliance, export and SEZ clearance, bond/LUT execution, duty benefit claims, EA-2000 audit support, SCN reply drafting, and representation before authorities." },
+      { "q": "Do you handle legacy excise matters?", "a": "Yes, we specialize in reviewing pending litigation, preparing replies to outstanding show cause notices, and representing clients in ongoing proceedings related to pre-GST excise matters." }
+    ],
+    "serviceTax": [
+      { "q": "Is Service Tax still applicable?", "a": "Service Tax was replaced by GST from July 1, 2017. However, many businesses have pending Service Tax matters, audits, and litigation that require expert handling. We continue to provide full support for these legacy issues." },
+      { "q": "Do you handle Service Tax audits?", "a": "Yes, we prepare for EA-2000 audits, handle audit queries, review documentation, and ensure proper representation during departmental audit proceedings." },
+      { "q": "Can you help with pending Service Tax litigation?", "a": "Absolutely. We review pending litigation, draft replies to show cause notices, prepare appeals, and represent clients before adjudicating authorities and appellate tribunals." }
+    ],
+    "eou": [
+      { "q": "What is a 100% EOU scheme?", "a": "The 100% Export Oriented Unit scheme allows units to manufacture goods exclusively for export with various duty benefits and exemptions. Registration is required under the Development Commissioner, Customs, and Central Excise." },
+      { "q": "What compliance is required for EOU units?", "a": "EOU units must maintain proper records, file monthly/quarterly/yearly returns, obtain necessary permissions, execute bonds, and comply with customs and excise regulations. We handle all these compliance requirements." },
+      { "q": "Can you assist with EOU registration?", "a": "Yes, we provide complete assistance with EOU registration including application preparation, coordination with the Development Commissioner, obtaining warehousing licenses, and executing B/17 bonds." }
+    ],
+    "dgftCustoms": [
+      { "q": "What DGFT services do you provide?", "a": "We assist with DGFT advisory including import-export policy guidance, duty benefit schemes, registration support, compliance reporting, and representation before DGFT authorities." },
+      { "q": "Can you handle appeals before CESTAT?", "a": "Yes, we draft and file appeals before Commissioner (Appeals), CESTAT, and also prepare cross-objections, writ petitions, and settlement commission applications as required." },
+      { "q": "Do you provide legal opinions on tax matters?", "a": "Yes, we provide both oral and written legal opinions on complex indirect tax matters, helping businesses understand their position and make informed decisions." }
+    ]
+  },
+  "downloads": [
+    { "title": "GST Registration Guide", "desc": "Complete step-by-step guide for GST registration and migration process", "category": "GST", "icon": "bi-file-pdf", "type": "PDF" },
+    { "title": "GST Return Filing Calendar", "desc": "Monthly and quarterly GST return filing due dates and compliance checklist", "category": "GST", "icon": "bi-calendar-check", "type": "PDF" },
+    { "title": "Central Excise Compliance Manual", "desc": "Comprehensive compliance manual for Central Excise procedures and documentation", "category": "Excise", "icon": "bi-book", "type": "PDF" },
+    { "title": "Service Tax Advisory Note", "desc": "Guidance on handling pending Service Tax matters and legacy issues", "category": "Service Tax", "icon": "bi-journal-text", "type": "PDF" },
+    { "title": "EOU Scheme Information", "desc": "Detailed information on 100% EOU scheme benefits, registration, and compliance", "category": "EOU", "icon": "bi-box-seam", "type": "PDF" },
+    { "title": "DGFT Policy Updates", "desc": "Key updates and changes in foreign trade policy and DGFT regulations", "category": "DGFT", "icon": "bi-globe2", "type": "PDF" },
+    { "title": "Show Cause Notice Guide", "desc": "Understanding SCN process and how to prepare an effective reply", "category": "Legal", "icon": "bi-shield-check", "type": "PDF" },
+    { "title": "Appeal Procedure Handbook", "desc": "Step-by-step guide for filing appeals before various appellate authorities", "category": "Legal", "icon": "bi-mortarboard", "type": "PDF" }
+  ],
+  "footer": {
+    "quickLinks": [
+      { "label": "Home", "href": "/index.html" },
+      { "label": "About Us", "href": "/about.html" },
+      { "label": "Services", "href": "/services.html" },
+      { "label": "Clients", "href": "/clients.html" },
+      { "label": "Testimonials", "href": "/testimonials.html" },
+      { "label": "Contact", "href": "/contact.html" }
+    ],
+    "serviceLinks": [
+      { "label": "GST Services", "href": "/gst.html" },
+      { "label": "Central Excise", "href": "/central-excise.html" },
+      { "label": "Service Tax", "href": "/service-tax.html" },
+      { "label": "100% EOU", "href": "/eou.html" },
+      { "label": "DGFT / Customs / Appeals", "href": "/dgft-customs.html" }
+    ]
+  }
+}
